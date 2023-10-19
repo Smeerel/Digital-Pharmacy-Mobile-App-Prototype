@@ -1,7 +1,7 @@
 ## Digital-Pharmacy-Mobile-App-Prototype
 
 # Introduction:
-This repository contains a presentation explaining business needs,current workflow ,proposed solution for the problema and a high-level overview of what the Figma prototype. For the suggested solution (Mobile Application)  high fidelity prototype mock up screens were created to automate all the manual steps for better busines outcome and provide an enhanced end user experience.
+This repository contains a presentation explaining business needs,current workflow ,proposed solution for the problem and a high-fidelity clickable Figma prototype. For the suggested solution (Mobile Application) high fidelity prototype mock up screens were created to automate all the manual steps for better busines outcome and provide an enhanced end user experience.
 
 # Dataset: 
 The dataset used in this project is related to a Online Pharmacy Industry which included information about number of current customers , with their demographic details , subcriptions, dates of enrollment, payment methods, etc.Google Analytics Report for Company's website was also used to analyze data related to current website and gain more information about end users.
@@ -15,10 +15,10 @@ For this initiative, we harnessed customer enrollment data to glean insights int
 # To create the prototype, you need:
 
 - Go to Figma and log in or sign up for an account.
-- Start a new Figma file and set up your artboards for the various screens of your online pharmacy project.
-- Design each screen of your online pharmacy application, considering layout, colors, typography, and interactive elements.
+- Start a new Figma file and set up artboards for the various screens of  online pharmacy project.
+- Design each screen of online pharmacy application, considering layout, colors, typography, and interactive elements.
 - Use the "Prototype" tab in Figma to link the screens and define interactions between them. Add transitions, gestures, and animations as needed.
-- Use the Figma preview mode to test your prototype and ensure that all interactions work as intended.
+- Use the Figma preview mode to test the prototype and ensure that all interactions work as intended.
 - Share a link to your Figma prototype for others to review and interact with.
   
 # Analysis:
