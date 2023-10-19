@@ -42,7 +42,6 @@ The results include:
 ![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/e2f57cd3-5bd6-4144-9b48-c1da2ec67545)
 
 
-
 # Recommendations:
 ![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/318e354d-35b3-4489-98a1-d50ae928f965)
 
