@@ -43,12 +43,10 @@ The results include:
 
 
 
+# Recommendations:
+![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/318e354d-35b3-4489-98a1-d50ae928f965)
+
 
 # Conclusion:
 ![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/7cf750f0-4b0c-46bf-85ce-f0a9e9bebf9e)
-
-
-
-# Recommendations:
-![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/318e354d-35b3-4489-98a1-d50ae928f965)
 
