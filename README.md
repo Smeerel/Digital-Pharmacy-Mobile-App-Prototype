@@ -36,7 +36,9 @@ The results include:
 - Recommendations: High Fidelity Figma Prototype .
 
 ![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/c1eef9b7-9d5f-47ee-8073-f3f11de12400)
-![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/1d1b18ed-56c4-45e1-97af-4698a3f3eaa6)
+
+![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/42f39489-10ce-4673-b98c-643c6cf4c4df)
+
 ![image](https://github.com/Smeerel/Digital-Pharmacy-Mobile-App-Prototype/assets/143562418/e2f57cd3-5bd6-4144-9b48-c1da2ec67545)
 
 
